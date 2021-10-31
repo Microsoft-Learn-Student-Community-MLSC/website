@@ -1,4 +1,7 @@
-# website
+# Website
+## Welcome to official github page of MLSC-GEU. Below awe have elaborated the skeleton of this website, feel free to contribute.
+
+### https://studentambassadors.microsoft.com/
 
 Link to the Figma file for the design:
 https://www.figma.com/file/0vulYxXthq32tVKP0WVV30/MLSA-Website-Footer?node-id=0%3A1
