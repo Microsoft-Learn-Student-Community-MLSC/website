@@ -1,5 +1,5 @@
 # Website
-##Welcome to official github page of MLSC-GEU. Below awe have elaborated the skeleton of this website, feel free to contribute.
+## Welcome to official github page of MLSC-GEU. Below awe have elaborated the skeleton of this website, feel free to contribute.
 
 ### https://studentambassadors.microsoft.com/
 
